@@ -1,0 +1,15 @@
+[{"techId":1,
+"titleTech":"Front-End Technologies-",
+"fEndTech":["JavaScript","ReactJS","Tailwindcss","Bootstrap","CSS","Firebase"]
+},
+{
+"techId":2,
+"titleTech":"Back-End Technologies-",
+"bEndTech":["Node.JS","Express.JS","MongoDB"]
+},
+{
+"techId":3,
+"titleTech":"Others Technologies-",
+"other":["VS code Editor","Github"]
+}
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "id":1,
+      "title": "The Martial Arts Academy",
+      "image":"/src/assets/projectsImage/taekwondo copy.jpg",
+      "description": "The Martial Arts Academy is a client-side web application. It provides information about martial arts classes and instructors, allowing instructors to browse and create new classes. The application features a responsive and user-friendly interface.",
+      "technologies": "React.js, React Router, AOS, React Responsive Carousel, React Awesome Reveal, react-router-dom, firebase, sweetalert2, react-tooltip, Tailwind CSS, MongoDB, and more.",
+      "liveLink":"https://symphonious-begonia-0a337a.netlify.app/",
+      "gitServer":"https://github.com/Shishir758/martial-traning-school-server",
+      "gitSlient":"https://github.com/Shishir758/martial-traning-school-client"
+    },
+    {
+        "id":2,
+        "title": "Findus Toys",
+        "image":"/src/assets/projectsImage/toy1 copy.jpg",
+        "description": "This is a 'Baby Toys' related website. Here in the- On top have a Nab Bar with Company name, Home, All Toys, Blog, Rigistration and Sign In options. In NavBar also have My Toys, Add A Toy, Log Out, Profile Photo which will show if user logged In. In the View Toy page has a 'See all toys' button. Clicking this button will redirect to all toys page. The application features a responsive and user-friendly interface.",
+        "technologies": "React.js, vite, firebase, react-rating, react-tabs, sweetalert2 Tailwind CSS, mongoDB and more.",
+        "liveLink":"https://regal-hummingbird-2448b3.netlify.app/",
+        "gitServer":"https://github.com/Shishir758/toy-seller-server",
+        "gitSlient":"https://github.com/Shishir758/toy-seller-client"
+      },
+      {
+        "id":3,
+        "title": "Special JP CHEF",
+        "image":"/src/assets/projectsImage/chef copy.jpg",
+        "description": "This is a 'Japanese Food and Chef' related website. Here in the- Up options. In NavBar also have Log Out, Profile Photo and Email which will show if user logged In. In the View Recipes page has a 'Favoroute' button. Clicking this button will show a toste with a meassage and button will disabled. The application features a responsive and user-friendly interface.",
+        "technologies": "React.js, React Router, react-lazyload, react-pdf, react-rating, Tailwind CSS and more.",
+        "liveLink":"https://tiny-scone-b782aa.netlify.app/",
+        "gitServer":"https://github.com/Shishir758/chef-and-recipe-server",
+        "gitSlient":"https://github.com/Shishir758/chef-and-recipe-client"
+      }
+  ]
+  
